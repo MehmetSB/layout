@@ -18,6 +18,7 @@
   display: -webkit-flex;
   display: flex;
   position: relative;
+  height: 400px;
 }
 
 h1{
